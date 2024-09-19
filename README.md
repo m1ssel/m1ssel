@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2 align="center">Contact with me:</h3>
+<h2 align="center">💬 Contact with me: 💬</h3>
 <p align="center">
 <a href="https://instagram.com/m1sselq" target="blank"><img alt="Telegram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/karaskey" target="blank"><img alt="Instgram" src="https://img.shields.io/badge/telegram-0077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
