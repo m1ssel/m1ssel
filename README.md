@@ -30,6 +30,8 @@
 <h2 align="center"> Projects: </h3>
 <p align="center">
 <a href="https://luxoratime.netlify.app/" target="blank">Luxora Time</a>
+<br/>
+<br/>
 <a href="https://crwn-clothing-m1ssel.netlify.app/" target="blank">Crwn-clothing (course project)</a>
 </p>
 
