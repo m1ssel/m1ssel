@@ -25,6 +25,14 @@
 <a href="https://t.me/karaskey" target="blank"><img alt="Instgram" src="https://img.shields.io/badge/telegram-0077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
+<br/>
+
+<h2 align="center"> Projects: </h3>
+<p align="center">
+<a href="https://luxoratime.netlify.app/" target="blank">Luxora Time</a>
+<a href="https://crwn-clothing-m1ssel.netlify.app/" target="blank">Crwn-clothing (course project)</a>
+</p>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
