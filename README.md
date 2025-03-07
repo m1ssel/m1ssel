@@ -1,4 +1,4 @@
-Tech stack: HTML, CSS, JS, React, Next.js, Tailwind CSS, SCSS, Node.js, Bootstrap
+Tech stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, SCSS, Node.js, React Query, Bootstrap
 
 <br/>
 
