@@ -6,7 +6,12 @@ Contact: <a href="https://instagram.com/m1sselq" target="blank">Instagram</a>, <
 
 <br/>
 
-Projects: <a href="https://weatherapp-m1ssel.netlify.app/" target="blank">Weather App</a>, <a href="https://luxoratime.netlify.app/" target="blank">Luxora Time</a>, <a href="https://crwn-clothing-m1ssel.netlify.app/" target="blank">Crwn-clothing (course project)</a>
+<h2 align="center">Projects:</h2> 
+1. <a href="https://weatherapp-m1ssel.netlify.app/" target="blank">Weather App</a>
+<br/> <br/>
+2. <a href="https://luxoratime.netlify.app/" target="blank">Luxora Time</a>
+<br/> <br/>
+3. <a href="https://crwn-clothing-m1ssel.netlify.app/" target="blank">Crwn-clothing (course project)</a>
 
 <h2 align="center"> Stats </h2>
 <br>
