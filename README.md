@@ -4,7 +4,6 @@ Tech stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, SCS
 
 Contact: <a href="https://instagram.com/m1sselq" target="blank">Instagram</a>, <a href="https://t.me/karaskey" target="blank">Telegram</a>
 
-<br/>
 
 <h2 align="center">Projects:</h2> 
 1. <a href="https://weatherapp-m1ssel.netlify.app/" target="blank">Weather App</a>
